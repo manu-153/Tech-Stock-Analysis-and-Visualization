@@ -39,11 +39,6 @@ This project provides an in-depth analysis and visualization of historical stock
    - Historical price trends, moving averages, daily returns, and correlation heatmaps are plotted.
    - Scatter plots are used to show the relationship between expected returns and risk.
 
-## Project Structure
-
-- `stock_analysis.py`: Contains the code to fetch data, compute metrics, and generate visualizations.
-- `requirements.txt`: Lists the necessary packages to run the project.
-
 ## Results
 
 - **Visualizations**: 
