@@ -26,7 +26,7 @@ This project provides an in-depth analysis and visualization of historical stock
 - **Correlation Analysis**: Evaluate and visualize the correlations between different stocks' returns and closing prices.
 - **Scatter Plots**: Analyze the relationship between expected return and risk.
 
-### Implementation
+### Implementations
 
 1. **Data Retrieval**: 
    - Historical stock data for the selected companies is fetched using the `yfinance` library.
